@@ -16,8 +16,7 @@ public class TableMultiplication {
     public static int[][] carreMultiplication(int x) {
         int[][] res = new int[x + 1][x + 1];
 
-        // EXERCISE
-        // END EXERCISE
+        // CODE HERE
 
         return res;
     }
