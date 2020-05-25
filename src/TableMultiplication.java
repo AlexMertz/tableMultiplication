@@ -8,6 +8,10 @@ public class TableMultiplication {
     }
 
     // Rédigez le corps de la méthode carreMultiplication pour qu'elle renvoie un tableau à deux dimensions d'entiers(int) contenant le carré de multiplication de coefficient x.
+    // Exemple: carré de multiplication pour x = 3:
+    // 1, 2, 3
+    // 2, 4, 6
+    // 3, 6, 9 
     // Exemple: carré de multiplication pour x = 4:
     // 1, 2, 3, 4
     // 2, 4, 6, 8
